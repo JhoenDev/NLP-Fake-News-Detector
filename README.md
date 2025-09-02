@@ -9,6 +9,7 @@ A project for Fake News Detection with Machine Learning proctored by Prof. Ryan 
 6. Understand the theory and intuition behind Recurrent Neural Networks and LSTM
 7. Build and train the deep learning model
 8. Access the performance of the trained model
+
 <br>
 
 ## This Contains
