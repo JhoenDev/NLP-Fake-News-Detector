@@ -29,6 +29,7 @@ A project for Fake News Detection with Machine Learning proctored by Prof. Ryan 
 - `gensim` : word embeddings and topic modelling
 - `spacy` : text processing, tokenization, tagging, named entity recognition
 - `nltk` : text preprocessing and natural language processing
+- `scikit-learn` : data preprocessing, model training, evaluation, and prediction
 - `tensorflow` : deep learning framework for building and training models
 - `RNN` : recurrent neural network for sequential data
 - `Bidirectional LSTM` : advance RNN with memory of past and future context 
