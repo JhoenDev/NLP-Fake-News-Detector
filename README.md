@@ -27,6 +27,7 @@ A project-based course for Fake News Detection with Machine Learning proctored b
 - `seaborn` : visualization library with styled plots
 - `worldcloud` : generate word clouds for word frequency
 - `gensim` : word embeddings and topic modelling
+- `spacy` : text processing, tokenization, tagging, named entity recognition
 - `nltk` : text preprocessing and natural language processing
 - `tensorflow` : deep learning framework for building and training models
 - `RNN` : recurrent neural network for sequential data
