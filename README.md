@@ -1,5 +1,5 @@
 # NLP-Fake-News-Detector
-A project-based course for Fake News Detection with Machine Learning proctored by Prof. Ryan Ahmed, with the following objectives:
+A project for Fake News Detection with Machine Learning proctored by Prof. Ryan Ahmed, with the following objectives:
 
 1. Apply python libraries to import and visualize datasets
 2. Perform exploratory data analysis and plot word-cloud
@@ -33,6 +33,31 @@ A project-based course for Fake News Detection with Machine Learning proctored b
 - `RNN` : recurrent neural network for sequential data
 - `Bidirectional LSTM` : advance RNN with memory of past and future context 
 
+<br>
+
+## Setup Instructions
+1. Install Python 3.11
+   [(https://www.python.org/downloads/release/python-3110/)](https://www.python.org/downloads/release/python-3110/)
+2. Create a Virtual Environment
+    <pre>
+    # Windows
+    py -3.11 -m venv venv
+    # Activate the environment
+    venv\Scripts\activate
+    </pre>
+3. Install Required Libraries
+    <pre>
+    py -3.11 -m pip install --upgrade pip
+    py -3.11 -m pip install pandas numpy matplotlib seaborn wordcloud gensim nltk tensorflow==2.15 spacy
+    </pre>
+4. Add Jupyter Kernel for Python 3.11
+   <pre>
+    py -3.11 -m ipykernel install --user --name py311 --display-name "Python 3.11"
+   </pre>
+5. Run the Notebook
+    <pre>
+    jupyter notebook
+   </pre>
 <br>
 
 ## Project Certificate
