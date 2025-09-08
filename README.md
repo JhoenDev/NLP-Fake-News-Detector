@@ -1,5 +1,5 @@
 # NLP-Fake-News-Detector
-A project for Fake News Detection with Machine Learning proctored by Prof. Ryan Ahmed, with the following objectives:
+A project for Fake News Detection using Machine Learning with the following objectives:
 
 1. Apply python libraries to import and visualize datasets
 2. Perform exploratory data analysis and plot word-cloud
@@ -65,8 +65,4 @@ A project for Fake News Detection with Machine Learning proctored by Prof. Ryan 
 ## Project Certificate
 ![alt text](MyCertificate.jpg)
 
-<br>
-
-## My Personal Take 
-This project really helped me understand all the processes involved in analyzing data and building predictive models for classifying real/fake news. I was introduced to different techniques in visualizing data specially text data. Prof. Ryan Ahmed was a good professor and he explained RNNs and LSTM concepts well.
 
